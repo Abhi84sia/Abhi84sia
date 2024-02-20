@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhi84sia
+- 👋 Hi, I’m Abhishek Chaurasiya
 - 👀 I’m interested in ...Exploring & learning new things
 - 🌱 I’m currently learning ...MERN Stack Development
 - 💞️ I’m looking to collaborate on ...
